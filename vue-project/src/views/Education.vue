@@ -6,10 +6,10 @@
       <div class="col-md-6">
         <div class="card h-100 shadow-sm">
           <div class="card-body">
-            <h5 class="card-title">Universitas XYZ</h5>
+            <h5 class="card-title">SD NEGERI JUMO</h5>
             <p class="card-text">
-              <strong>Gelar:</strong> S.T. [Jurusan]<br>
-              <strong>Tahun:</strong> 2015 – 2019
+              <strong>Gelar:</strong>-<br>
+              <strong>Tahun:</strong> 2011 – 2015
             </p>
           </div>
         </div>
@@ -18,10 +18,10 @@
       <div class="col-md-6">
         <div class="card h-100 shadow-sm">
           <div class="card-body">
-            <h5 class="card-title">SMA ABC</h5>
+            <h5 class="card-title">SMP NEGERI JUMO</h5>
             <p class="card-text">
-              <strong>Program:</strong> IPA<br>
-              <strong>Tahun:</strong> 2012 – 2015
+              <strong>Program:</strong>-<br>
+              <strong>Tahun:</strong> 2016 – 2019
             </p>
           </div>
         </div>

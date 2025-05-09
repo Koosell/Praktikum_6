@@ -14,7 +14,7 @@ const items = [
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary sticky-top">
     <div class="container">
-      <RouterLink class="navbar-brand" to="/">Nama Anda</RouterLink>
+      <RouterLink class="navbar-brand" to="/">Nazal Syamaidzar Mahendra</RouterLink>
       <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#nav">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -35,7 +35,7 @@ const items = [
 
   <!-- Footer -->
   <footer class="bg-primary text-center text-white py-3">
-    © 2025 Nama Anda
+    © 2025 Nazal Syamaidzar Mahendra
   </footer>
 </template>
 

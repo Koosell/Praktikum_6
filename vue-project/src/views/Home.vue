@@ -23,7 +23,7 @@ onMounted(() => {
             Selamat Datang!
           </h1>
           <p class="lead text-secondary" data-aos="fade-up">
-            Saya <b>Nama Anda</b>, profesional di bidang <em>[Keahlian]</em>.
+            Saya <b>Nazal Syamaidzar Mahendra</b>, profesional di bidang <em>[Balap Kelomang]</em>.
           </p>
         </div>
         <!-- kolom animasi -->
